@@ -1,0 +1,25 @@
+.main {
+    background-color: #fff;
+    height: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.flexCenter {
+    align-items: center;
+    justify-content: center;
+}
+
+.exchangeForm {
+    justify-content: center;
+}
+
+.exchangeForm>div {
+    margin: 0 10px;
+}
+
+.swap {
+    color: #222;
+}
